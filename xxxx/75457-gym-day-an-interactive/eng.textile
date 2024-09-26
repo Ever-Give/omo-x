@@ -1,0 +1,46 @@
+Gym Day | An Interactive
+
+Author: ,,,,
+
+*000*2022-03-16 00:34
+
+I'm going to start an interactive! Do you think the setting should be at a gym class or at the actual gym?
+
+*004*2022-03-17 22:13
+
+Laura was heading to gym class. Her uniform was a pair of red dolphin shorts that matched a red t-shirt. She was a tall brunette and had put her hair into a ponytail. She hadn't used the bathroom all day! She had begun to feel the need for the bathroom, but it wasn't anything too serious. But, she definitely regrets the large cup of coffee and bottles of water she had drunk. The liquid hadn't caught up to her too much yet, so she wasn't all that worried. Should she...
+
+Laura's bladder is currently at 60%! Her bladder will rise by 5% each chapter by default. (it will rise more than 5% if anything that makes her more desperate happens)
+
+A. Go to the bathroom
+
+B. Ignore it
+
+C. Ask the coach if she can go the bathroom
+
+*011*2022-03-18 22:34
+
+B.
+
+The liquid is slowly starting to catch up to Laura, but she decides to ignore it. It's time for warm ups. It feels like each one they do adds more pressure to her bladder. Doing jumping jacks makes it all the worse. She bites her lip through each one, her legs trembling as they spread. When they do the triangle pose, she starts really feeling the need to use the bathroom. But, she has to run laps. Should she...
+
+A. Ask the coach to use the bathroom
+
+B. Leave and use the bathroom
+
+C. Other (comment what it is)
+
+Her bladder is at 76% fullness
+
+*017*2022-03-22 04:16
+
+Laura decided to go ask the coach, as her need rose rapidly. "C-Can I go to the bathroom?" "No, but you can do another 50 jumping jacks before running your laps." The coach chuckled. Laura looked at him in, before doing the jumping jacks. Her bladder throbs, but she still hasn't even done 5 yet! Her thighs shake as she spreads them out. When she finishes them the coach says, "Do 5 squats and then you can run a mile." Right when she thought, she could stop she must do another set of squats. By the time she finishes, she feels as if her bladder has been stretched to its limits.
+
+Bladder: 99%
+
+Should she...
+
+A. Go run laps
+
+B. Go to the bathroom without permission
+
